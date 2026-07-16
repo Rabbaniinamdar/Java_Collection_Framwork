@@ -1,4 +1,4 @@
-# Java Collections Framework — Complete Reference Notes
+# Java Collections Framework — Notes
 ---
 
 ## 📑 Table of Contents
